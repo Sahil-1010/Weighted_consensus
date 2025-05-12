@@ -87,5 +87,8 @@ Your feedback helps make this better for everyone!
 
 ---
 
-## To check clustering accuracy use the another notebook as `Weighted_consensus_accuracy` method is same
+## 👓 Measure Model Accuracy
+To check clustering accuracy use the another notebook as `Weighted_consensus_accuracy` method is same
+
+---
 
