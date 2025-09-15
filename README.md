@@ -74,6 +74,10 @@ If you're working on clustering, machine learning ensembles, or anything in betw
 
 ---
 
+## 🏅Awards
+
+This research paper has been awarded as best paper on the ICSSAI-Conference-2025
+
 ## 💬 Feedback
 
 Found something useful? Confused about a section?
