@@ -8,23 +8,24 @@ Welcome! This project explores how to bring multiple clustering algorithms toget
 ## 🚀 How to Use
 
 1. **Install the required libraries**:
+   You may use the python file but I'll recommend to use ipynb...
    Make sure Python 3.7+ is installed, then run:
 
    ```bash
    pip install -U scikit-learn matplotlib seaborn pandas scikit-fuzzy scipy
 
-2. **Prepare your dataset**:
+3. **Prepare your dataset**:
 
    * By default, the script loads `Wine.csv`.
    * You can replace this with your own dataset in CSV format.
 
-3. **Run the main script**:
+4. **Run the main script**:
 
    ```bash
-   python final_year_project_restructured.py
+   python Py_Weighted_Consensus.py
    ```
 
-4. **View the results**:
+5. **View the results**:
 
    * The script will display plots of different clustering algorithms.
    * It visualizes the consensus matrix as a heatmap.
@@ -92,7 +93,7 @@ Your feedback helps make this better for everyone!
 ---
 
 ## 👓 Measure Model Accuracy
-To check clustering accuracy use the another notebook as `Weighted_consensus_accuracy` method is same
+To check clustering accuracy use the another notebook as `Weighted_Consensus_accuracy` method is same
 
 ---
 
